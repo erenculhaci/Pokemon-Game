@@ -63,3 +63,8 @@ You can build the code with the following command:
 $ g++ -Wall -Werror src/pokemon.cpp src/arena.cpp src/electricPokemon.cpp src/psychicPokemon.cpp src/main.cpp -I include -o pokemongame
 
 $ ./pokemongame
+
+## UML Diagram of Classes
+
+![UML DIAGRAM](https://github.com/user-attachments/assets/85288546-8196-4b48-9965-bddac1dfdb2d)
+

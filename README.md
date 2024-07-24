@@ -58,11 +58,12 @@ To run the simulation, instantiate the `Arena` class, add the Pokémon using `ad
 
 ## Building and Running the Code
 
-You can build the code with the following command:
-
+You can build and run the code with the following command:
+```
 $ g++ -Wall -Werror src/pokemon.cpp src/arena.cpp src/electricPokemon.cpp src/psychicPokemon.cpp src/main.cpp -I include -o pokemongame
 
 $ ./pokemongame
+```
 
 ## UML Diagram of Classes
 

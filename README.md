@@ -1,4 +1,4 @@
-# Pokémon Battle Simulation
+# Pokémon Battle Game
 
 This project implements a Pokémon battle simulation featuring two specific types of Pokémon: ElectricPokémon and PsychicPokémon. The simulation takes place in an arena that can influence the battle based on its terrain type. This README provides an overview of the classes and methods involved in the implementation.
 
